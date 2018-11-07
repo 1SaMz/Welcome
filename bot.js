@@ -11,7 +11,6 @@ setTimeout(() => mohamed.send(`/me ** , # Welcome To __Magic__ Server , :mg: :le
 });
 
 
+
+
 client.login(process.env.BOT_TOKEN);//
-
-
-
